@@ -30,7 +30,7 @@
 
 <hr />
 
-- 🔭 I’m currently working at [![Team Rockstars IT](https://teamrockstars.nl/)](https://www.teamrockstars.nl/wp-content/uploads/2020/10/logo-rockstars.png)
+- 🔭 I’m currently working at [Team Rockstars IT![Team Rockstars IT](https://www.teamrockstars.nl/wp-content/uploads/2020/10/logo-rockstars-32.png)] (https://www.teamrockstars.nl/)
 - 🌱 I’m currently learning everything about modern web technologies!
 - 📫 How to reach me:
   - [Personal Website](https://www.jwvbremen.nl/)
@@ -40,4 +40,4 @@
 - 💬 Ask me anything!
 
 - 🤔 Curious the web, responsiveness, rendering techniques, performance optimization and emerging web technologies!
-- ⚡ Fun fact: It takes about 10.000 hours to master a skill *(9 years, considering 5 days a week, spending 4 hours a day).* That's why I've been practicing programming and skateboarding both for 10* years!
+- ⚡ Fun fact: It takes about 10.000 hours to master a skill *(9 years, considering 5 days a week, spending 4 hours a day).* That's why I've been practicing programming and skateboarding both for 10+ years!
