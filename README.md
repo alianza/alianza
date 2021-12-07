@@ -24,9 +24,9 @@
 
 ## 🧮 GH Stats
   
-[![Jan-Willem van Bremen (Alianza) github stats](https://github-readme-stats.vercel.app/api?username=alianza&show_icons=true&theme=cobalt&hide_border=true&hide_title=true)](https://github.com/alianza)
+[![Jan-Willem van Bremen (Alianza) github stats](https://github-readme-stats.vercel.app/api?username=alianza&show_icons=true&theme=cobalt&hide_border=true&hide_title=true&count_private=true)](https://github.com/alianza)
 
-[![Jan-Willem van Bremen (Alianza) Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alianza&layout=compact&theme=cobalt&hide_border=true)](https://github.com/alianza)
+[![Jan-Willem van Bremen (Alianza) Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alianza&layout=compact&theme=cobalt&hide_border=true&count_private=true)](https://github.com/alianza)
 
 <hr />
 
