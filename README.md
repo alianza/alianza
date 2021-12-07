@@ -30,7 +30,7 @@
 
 <hr />
 
-- 🔭 I’m currently working at [Team Rockstars IT![Team Rockstars IT](https://www.teamrockstars.nl/wp-content/uploads/2020/10/logo-rockstars-32.png)] (https://www.teamrockstars.nl/)
+- 🔭 I’m currently working at [Team Rockstars IT![Team Rockstars IT](https://www.teamrockstars.nl/wp-content/uploads/2020/10/logo-rockstars-32.png)](https://www.teamrockstars.nl/)
 - 🌱 I’m currently learning everything about modern web technologies!
 - 📫 How to reach me:
   - [Personal Website](https://www.jwvbremen.nl/)
