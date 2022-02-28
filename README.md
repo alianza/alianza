@@ -3,7 +3,7 @@
 - 👨‍💻 (Phyrex)Alianza
 - 💼 Software Engineer with focus on Front-End Web development
 - 📍 Amsterdam, Netherlands 🇳🇱 | Remote 🌐
-- 🔗  [Portfolio website](https://www.jwvbremen.com)
+- 🔗  [Portfolio website](https://www.jwvbremen.nl)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextjs)
