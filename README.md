@@ -32,9 +32,9 @@
 
 <hr />
 
-- 🔭 I’m currently working at [Team Rockstars IT![Team Rockstars IT](https://www.teamrockstars.nl/wp-content/uploads/2020/10/logo-rockstars-32.png)](https://www.teamrockstars.nl/)
+- 🔭 I’m currently working at [Team Rockstars IT![Team Rockstars IT](https://www.teamrockstars.nl/wp-content/uploads/2022/10/teamrockstars-logo-favicon.png)](https://www.teamrockstars.nl/)
   - Working on a project at [E-Flux![E-Flux](https://www.e-flux.io/nl/wp-content/uploads/2023/02/cropped-favicon-32x32.png)](https://www.e-flux.io/)
-  - Dev platform of E-Flux [Road.io![Road](https://road.io/favicon.ico)](https://www.road.io/)
+  - Dev platform of E-Flux [Road.io![Road](https://www.e-flux.io/nl/wp-content/uploads/2023/02/cropped-favicon-32x32.png)](https://www.road.io/)
 - 🌱 I’m currently learning everything about modern web technologies!
 - 📫 How to reach me:
   - [Personal Website](https://www.jwvbremen.nl/)
