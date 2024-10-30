@@ -44,4 +44,4 @@
 - 💬 Ask me anything!
 
 - 🤔 Curious about the web, responsiveness, rendering techniques, performance optimization and emerging web technologies!
-- ⚡ Fun fact: It takes about 10.000 hours to master a skill *(9 years, considering 5 days a week, spending 4 hours a day).* That's why I've been practicing programming and skateboarding both for 10+ years!
+- ⚡ Fun fact: It takes about 10.000 hours to master a skill *(9 years, considering 5 days a week, spending 4 hours a day).* That's why I've been practicing software engineering and skateboarding both for well over 10 years!
