@@ -37,9 +37,9 @@
 
 <hr />
 
-* 🔭 I’m currently working at [Team Rockstars IT](https://www.teamrockstars.nl/)
+* 🔭 I’m currently working at <img src="https://www.teamrockstars.nl/wp-content/uploads/2022/10/teamrockstars-logo-favicon.png" width="16" height="16" alt="Team Rockstars IT logo" /> [Team Rockstars IT](https://www.teamrockstars.nl/)
 
-  * Working on a project at [Alliander](https://www.alliander.com/)
+  * Working on a project at <img src="https://www.alliander.com/assets/favicon.png" width="16" height="16" alt="Alliander logo" /> [Alliander](https://www.alliander.com/)
 
 * 🌱 I’m currently learning and exploring modern full-stack web technologies!
 
